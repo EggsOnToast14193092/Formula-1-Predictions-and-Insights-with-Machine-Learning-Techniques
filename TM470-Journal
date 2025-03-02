@@ -5,8 +5,10 @@
 ---W/C 10/02/25---
 ------------------
 
-1.Continued light checks of the OpenF1 API and the API get methods within Visual Studio, which may make building a dataset easier in the long run
-2.Initial meeting with Project Supervisor, on 13/02/25. Established the project and it's requirements
+1.Continued light checks of the OpenF1 API and the API get methods within Visual Studio,
+which may make building a dataset easier in the long run.
+
+2.Initial meeting with Project Supervisor, on 13/02/25. Went well - established the project and it's requirements
 
 ------------------
 ---W/C 17/02/25---
@@ -14,11 +16,15 @@
 
 1.1.Discovering pinch points with OpenF1 data and the amount of historic data available,
 as a result, started to explore further datasources that may link in to help paint a bigger picture.
+
 1.2.Additional issue with the datasource is that the JSON request doesn't allow for calling anymore than
 a specific driver AND session (race event) ID. This could cause a huge workload with pulling all of these request
 from the past 2+ Years.
+
 2.GitHub & Visual Studio linked
+
 3.JIRA board set up, Project Supervisor has confirmed access.
+
 4.Started TMA01 write up
 
 ------------------
@@ -26,4 +32,5 @@ from the past 2+ Years.
 ------------------
 
 1.Most of TMA01 done, need to finish up pre W/C 03/02/25
+
 2.JIRA board updated comments and complete tasks within Kanban

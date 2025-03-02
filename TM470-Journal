@@ -12,7 +12,11 @@
 ---W/C 17/02/25---
 ------------------
 
-1.Discovering pinch points with OpenF1 data and the amount of historic data available, started to explore further datasources that may link in to help paint a bigger picture.
+1.1.Discovering pinch points with OpenF1 data and the amount of historic data available,
+as a result, started to explore further datasources that may link in to help paint a bigger picture.
+1.2.Additional issue with the datasource is that the JSON request doesn't allow for calling anymore than
+a specific driver AND session (race event) ID. This could cause a huge workload with pulling all of these request
+from the past 2+ Years.
 2.GitHub & Visual Studio linked
 3.JIRA board set up, Project Supervisor has confirmed access.
 4.Started TMA01 write up
